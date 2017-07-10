@@ -1,11 +1,11 @@
 var SERVER_GROUP = {
   DEBUG: {
-    API_SERVER: "http://sandkg.kktv1.com:8384/kkgame/entrance",
-    JS_API_SERVER: "http://sandkg.kktv1.com:8384/kkgame/entrance",
+    API_SERVER: "",
+    JS_API_SERVER: "",
   },
   RELEASE: {
-    API_SERVER: "http://apikg.kktv1.com:8080/kkgame/entrance",
-    JS_API_SERVER: "http://apikg.kktv1.com:8080/kkgame/entrance",
+    API_SERVER: "",
+    JS_API_SERVER: "",
   }
 }
 
