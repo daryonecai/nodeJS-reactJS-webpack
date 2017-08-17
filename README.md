@@ -20,7 +20,7 @@
 * views
 
 二、项目描述：
-* 此DEMO,nodejs + sailsJs + reactJs + webpack，并支持ES6,webpack打包工具。
+* 此DEMO,nodejs + sailsJs + reactJs + webpack，并支持ES6,webpack打包工具
 
 三、安装包
 
