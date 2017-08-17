@@ -33,4 +33,3 @@
 四、附录
 * sails中文文档：http://sailsdoc.swift.ren/
 * sails英文文档：http://sailsjs.com/
-*
