@@ -37,7 +37,7 @@ module.exports = {
                 warnings: false
             },
             mangle: {
-                except: ['$super', '$', 'exports', 'require']
+                except: ['$super', '$', 'jQuery', 'exports', 'require', "EventProxy"]
             }
         }),
         new ExtractTextPlugin("/styles/[name].css", {
